@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/signIn"
+        android:title="sign in as business"/>
+    <item
+        android:id="@+id/signInUser"
+        android:title="Sign in as User"/>
+
+    <item
+        android:id="@+id/SignOut"
+        android:title="Sign Out"/>
+
+
+</menu>

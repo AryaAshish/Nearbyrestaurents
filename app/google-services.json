@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288022628559",
+    "firebase_url": "https://nearbyreataurents.firebaseio.com",
+    "project_id": "nearbyreataurents",
+    "storage_bucket": "nearbyreataurents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288022628559:android:95ca6d84c4c11c4d",
+        "android_client_info": {
+          "package_name": "com.adeveloper.ashish.nearby_reataurents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288022628559-8imibqu9r1qjc9k9dfac1k1m6ubrh214.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adeveloper.ashish.nearby_reataurents",
+            "certificate_hash": "2f17590c9a72d532b184abb2976730b28ab2feab"
+          }
+        },
+        {
+          "client_id": "288022628559-opg6lndeiv4q5jvv7tbpcdlcu76slbcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADetHfOeTRgZA8Aps0DzvA5WoGIIlz5ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288022628559-opg6lndeiv4q5jvv7tbpcdlcu76slbcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
